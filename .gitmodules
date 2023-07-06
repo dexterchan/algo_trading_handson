@@ -1,0 +1,3 @@
+[submodule "crypto_feature_preprocess"]
+	path = crypto_feature_preprocess
+	url = https://github.com/dexterchan/crypto_feature_preprocess.git
