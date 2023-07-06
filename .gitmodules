@@ -1,3 +1,15 @@
 [submodule "crypto_feature_preprocess"]
 	path = crypto_feature_preprocess
 	url = https://github.com/dexterchan/crypto_feature_preprocess.git
+[submodule "machine-learning-gym"]
+	path = machine-learning-gym
+	url = https://github.com/dexterchan/machine-learning-gym.git
+[submodule "tradesignal_mtm_runner"]
+	path = tradesignal_mtm_runner
+	url = https://github.com/dexterchan/tradesignal_mtm_runner.git
+[submodule "crypto_market_data"]
+	path = crypto_market_data
+	url = https://github.com/dexterchan/crypto_market_data.git
+[submodule "algo_interactive_analysis"]
+	path = algo_interactive_analysis
+	url = https://github.com/dexterchan/algo_interactive_analysis.git
